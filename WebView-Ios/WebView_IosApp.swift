@@ -11,7 +11,7 @@ import SwiftUI
 struct WebView_IosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
